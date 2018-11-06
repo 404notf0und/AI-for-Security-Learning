@@ -16,6 +16,7 @@
 - [恶意软件与数据分析](https://iami.xyz/AliSEC3/)
 - [利用机器学习进行恶意代码分类](http://drops.xmd5.com/static/drops/tips-8151.html)
 - [用机器学习检测Android恶意代码](http://drops.xmd5.com/static/drops/mobile-13428.html)
+- [Malware Detection in Executables Using Neural Networks](https://devblogs.nvidia.com/malware-detection-neural-networks/)
 
 ### 域名安全 ###
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
