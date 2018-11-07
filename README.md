@@ -4,7 +4,6 @@
 ## 防护篇 ##
 ### Webshell检测 ###
 - [基于机器学习的分布式webshell检测系统-特征工程（1）](https://www.s0nnet.com/archives/fshell-feature-1)
-- [河马-利用机器学习检测WEBSHELL](http://blog.shellpub.com/2017/10/11/%E6%B2%B3%E9%A9%ACwebshell%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.html)
 - [GitChat · 安全 | 基于机器学习的 Webshell 发现技术探索](http://blog.csdn.net/GitChat/article/details/77932384?locationNum=4&fps=1)
 - [刘焱： Webshell 发现技术实战解析](http://gitbook.cn/books/5964d154cc597d3e0c08667c/index.html)
 - [安普诺张涛：再谈webshell检测](http://www.cnetsec.com/article/22593.html)
