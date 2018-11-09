@@ -26,6 +26,7 @@
 - [如何在安全风控中评估和量化机器学习有效性](https://xz.aliyun.com/t/2951)
 
 ### URL异常检测 ###
+- [基于机器学习的web异常检测](https://www.freebuf.com/articles/web/126543.html)
 - [基于机器学习的web应用防火墙](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall)
 - [基于URL异常检测的机器学习模型mini部署](http://4o4notfound.org/index.php/archives/84/)
 - [我的AI安全检测学习笔记（一）](http://4o4notfound.org/index.php/archives/127/)
