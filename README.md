@@ -1,4 +1,4 @@
-## Machine-Learning-for-Security-Data-Analysis
+## AI-for-Security-Data-Analysis
 安全场景、基于AI的安全算法和安全数据分析学习笔记
 
 ## 防护篇 ##
