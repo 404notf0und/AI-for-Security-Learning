@@ -11,12 +11,16 @@
 - [AI for Security Data Analysis](#AI-for-Security-Learning)
 	- [防护篇](#防护篇)
 		- [Webshell检测](#Webshell检测)
-		- [恶意软件和代码](#恶意软件和代码)
+		- [恶意软件&代码](#恶意软件&代码)
 		- [域名安全](#域名安全)
 		- [业务安全](#业务安全)
 		- [URL异常检测](#URL异常检测)
 		- [XSS检测](#XSS检测)
 		- [其他安全检测](#其他安全检测)
+			- [WindowsRDP检测](#机器学习在Windows RDP版本和后门检测上的应用)
+			- [PowerShell检测](#用机器学习检测恶意PowerShell)
+			- [用户行为(UBA)检测](#机器学习算法在用户行为检测(UBA)领域的应用)
+			- [弱口令检测](#利用机器学习和规则实现弱口令检测)
 	- [对抗篇](#对抗篇)
 
 <!-- more -->
@@ -33,7 +37,7 @@
 - [安普诺张涛：再谈webshell检测](http://www.cnetsec.com/article/22593.html)
 - [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
 
-### 恶意软件和代码 ###
+### 恶意软件&代码 ###
 - [深度学习在恶意软件检测中的应用](https://xz.aliyun.com/t/2447)
 - [恶意软件与数据分析](https://iami.xyz/AliSEC3/)
 - [利用机器学习进行恶意代码分类](http://drops.xmd5.com/static/drops/tips-8151.html)
@@ -63,7 +67,7 @@
 
 ### 其他安全检测 ###
 - [机器学习在Windows RDP版本和后门检测上的应用](https://www.anquanke.com/post/id/157175)
-- [用机器学习检测恶意PowerShell：FireEye实践](https://xz.aliyun.com/t/2437)
+- [用机器学习检测恶意PowerShell](https://xz.aliyun.com/t/2437)
 - [机器学习算法在用户行为检测(UBA)领域的应用](http://dearcharles.cn/2017/11/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B-UBA-%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/)
 - [利用机器学习和规则实现弱口令检测](https://manning23.github.io/2018/10/12/%E5%88%A9%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%A7%84%E5%88%99%E5%AE%9E%E7%8E%B0%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%A3%80%E6%B5%8B/)
 
