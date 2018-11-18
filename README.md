@@ -1,17 +1,17 @@
-# AI-for-Security-Data-Analysis
+# AI-for-Security-Learning
 安全场景、基于AI的安全算法和安全数据分析学习笔记
 
-项目地址：https://github.com/404notf0und/AI-for-Security-Data-Analysis
+项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
 最近更新日期为：2018/11/18
 
 同步更新于：404 Not Found：AI for Security
 
 目录：
-- [AI for Security Data Analysis](#AI-for-Security-Data-Analysis)
+- [AI for Security Data Analysis](#AI-for-Security-Learning)
 	- [防护篇](#防护篇)
 		- [Webshell检测](#Webshell检测)
-		- [恶意软件/代码](#恶意软件/代码)
+		- [恶意软件和代码](#恶意软件和代码)
 		- [域名安全](#域名安全)
 		- [业务安全](#业务安全)
 		- [URL异常检测](#URL异常检测)
@@ -21,7 +21,7 @@
 
 <!-- more -->
 
-# AI for Security Data Analysis
+# AI for Security Learning
 ## 防护篇 ##
 ### Webshell检测 ###
 - [基于机器学习的分布式webshell检测系统-特征工程（1）](https://www.s0nnet.com/archives/fshell-feature-1)
@@ -33,7 +33,7 @@
 - [安普诺张涛：再谈webshell检测](http://www.cnetsec.com/article/22593.html)
 - [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
 
-### 恶意软件/代码 ###
+### 恶意软件和代码 ###
 - [深度学习在恶意软件检测中的应用](https://xz.aliyun.com/t/2447)
 - [恶意软件与数据分析](https://iami.xyz/AliSEC3/)
 - [利用机器学习进行恶意代码分类](http://drops.xmd5.com/static/drops/tips-8151.html)
