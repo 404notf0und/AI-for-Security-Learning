@@ -8,7 +8,7 @@
 同步更新于：404 Not Found：AI for Security
 
 目录：
-- [AI for Security Data Analysis](#AI-for-Security-Learning)
+- [AI for Security Learning](#AI-for-Security-Learning)
 	- [防护篇](#防护篇)
 		- [Webshell检测](#Webshell检测)
 		- [恶意软件&代码](#恶意软件&代码)
@@ -17,10 +17,10 @@
 		- [URL异常检测](#URL异常检测)
 		- [XSS检测](#XSS检测)
 		- [其他安全检测](#其他安全检测)
-			- [WindowsRDP检测](#机器学习在WindowsRDP版本和后门检测上的应用)
-			- [PowerShell检测](#用机器学习检测恶意PowerShell)
-			- [用户行为(UBA)检测](#机器学习算法在用户行为检测(UBA)领域的应用)
-			- [弱口令检测](#利用机器学习和规则实现弱口令检测)
+			- [WindowsRDP检测]
+			- [PowerShell检测]
+			- [用户行为(UBA)检测]
+			- [弱口令检测]
 	- [对抗篇](#对抗篇)
 
 <!-- more -->
