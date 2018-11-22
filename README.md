@@ -12,10 +12,13 @@
 	- [防护篇](#防护篇)
 		- [Webshell检测](#Webshell检测)
 		- [恶意软件&代码](#恶意软件&代码)
+		- [恶意流量检测](#恶意流量检测)
 		- [域名安全](#域名安全)
 		- [业务安全](#业务安全)
-		- [URL异常检测](#URL异常检测)
-		- [XSS检测](#XSS检测)
+		- [Web安全](#Web安全)
+			- [URL异常检测](#URL异常检测)
+			- [XSS检测](#XSS检测)
+			- [Web攻击多分类检测](#Web攻击多分类检测)	
 		- [其他安全检测](#其他安全检测)
 			- [WindowsRDP检测]
 			- [PowerShell检测]
@@ -37,6 +40,7 @@
 - [刘焱： Webshell 发现技术实战解析](http://gitbook.cn/books/5964d154cc597d3e0c08667c/index.html)
 - [安普诺张涛：再谈webshell检测](http://www.cnetsec.com/article/22593.html)
 - [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
+- [基于机器学习的WebShell检测方法与实现(上)](https://www.freebuf.com/articles/web/181169.html)
 
 ### 恶意软件&代码 ###
 - [深度学习在恶意软件检测中的应用](https://xz.aliyun.com/t/2447)
@@ -45,7 +49,11 @@
 - [用机器学习检测Android恶意代码](http://drops.xmd5.com/static/drops/mobile-13428.html)
 - [Malware Detection in Executables Using Neural Networks](https://devblogs.nvidia.com/malware-detection-neural-networks/)
 
+### 恶意流量检测 ###
+**- [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)**
+
 ### 域名安全 ###
+- [机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法](https://www.freebuf.com/articles/es/187451.html)
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
 - [使用CNN检测DNS隧道](https://github.com/BoneLee/dns_tunnel_dectect_with_CNN)
 
@@ -53,6 +61,7 @@
 - [基于设备指纹的风控建模以及机器学习的尝试](https://xz.aliyun.com/t/2801)
 - [如何在安全风控中评估和量化机器学习有效性](https://xz.aliyun.com/t/2951)
 
+## Web安全 ##
 ### URL异常检测 ###
 - [基于机器学习的web异常检测](https://www.freebuf.com/articles/web/126543.html)
 - [基于大数据和机器学习的Web异常参数检测系统Demo实现](https://www.freebuf.com/articles/web/134334.html)
@@ -65,6 +74,10 @@
 - [机器学习识别XSS实践](https://www.cdxy.me/?p=773)
 - [使用深度学习检测XSS](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A3%80%E6%B5%8BXSS/)
 - [使用深度学习检测XSS(续)](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A3%80%E6%B5%8BXSS%28%E7%BB%AD%29/)
+
+### Web攻击多分类检测 ###
+- [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
+- [基于机器学习的攻击检测系统](https://www.freebuf.com/column/189981.html)
 
 ### 其他安全检测 ###
 - [机器学习在WindowsRDP版本和后门检测上的应用](https://www.anquanke.com/post/id/157175)
