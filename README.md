@@ -10,7 +10,7 @@
 目录：
 - [AI for Security Learning](#AI-for-Security-Learning)
 	- [防护篇](#防护篇)
-		- [恶意软件&代码](#恶意软件&代码)
+		- [恶意软件和代码](#恶意软件和代码)
 		- [恶意流量检测](#恶意流量检测)
 		- [域名安全](#域名安全)
 		- [业务安全](#业务安全)
@@ -31,7 +31,7 @@
 
 # AI for Security Learning
 ## 防护篇 ##
-### 恶意软件&代码 ###
+### 恶意软件和代码 ###
 - [深度学习在恶意软件检测中的应用](https://xz.aliyun.com/t/2447)
 - [恶意软件与数据分析](https://iami.xyz/AliSEC3/)
 - [利用机器学习进行恶意代码分类](http://drops.xmd5.com/static/drops/tips-8151.html)
