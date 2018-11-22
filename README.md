@@ -3,14 +3,13 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/11/19
+最近更新日期为：2018/11/22
 
 同步更新于：404 Not Found：AI for Security
 
 目录：
 - [AI for Security Learning](#AI-for-Security-Learning)
 	- [防护篇](#防护篇)
-		- [Webshell检测](#Webshell检测)
 		- [恶意软件&代码](#恶意软件&代码)
 		- [恶意流量检测](#恶意流量检测)
 		- [域名安全](#域名安全)
@@ -18,7 +17,8 @@
 		- [Web安全](#Web安全)
 			- [URL异常检测](#URL异常检测)
 			- [XSS检测](#XSS检测)
-			- [Web攻击多分类检测](#Web攻击多分类检测)	
+			- [Web攻击多分类检测](#Web攻击多分类检测)
+			- [Webshell检测](#Webshell检测)
 		- [其他安全检测](#其他安全检测)
 			- [WindowsRDP检测]
 			- [PowerShell检测]
@@ -31,17 +31,6 @@
 
 # AI for Security Learning
 ## 防护篇 ##
-### Webshell检测 ###
-- [基于机器学习的分布式webshell检测系统-特征工程（1）](https://www.s0nnet.com/archives/fshell-feature-1)
-- [深度学习PHP webshell查杀引擎demo](https://www.cdxy.me/?p=788)
-- [使用机器学习识别WebShell](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
-- [基于机器学习的分布式Webshell检测系统](https://github.com/Lingerhk/fshell)
-- [GitChat · 安全 | 基于机器学习的 Webshell 发现技术探索](http://blog.csdn.net/GitChat/article/details/77932384?locationNum=4&fps=1)
-- [刘焱： Webshell 发现技术实战解析](http://gitbook.cn/books/5964d154cc597d3e0c08667c/index.html)
-- [安普诺张涛：再谈webshell检测](http://www.cnetsec.com/article/22593.html)
-- [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
-- [基于机器学习的WebShell检测方法与实现(上)](https://www.freebuf.com/articles/web/181169.html)
-
 ### 恶意软件&代码 ###
 - [深度学习在恶意软件检测中的应用](https://xz.aliyun.com/t/2447)
 - [恶意软件与数据分析](https://iami.xyz/AliSEC3/)
@@ -61,8 +50,8 @@
 - [基于设备指纹的风控建模以及机器学习的尝试](https://xz.aliyun.com/t/2801)
 - [如何在安全风控中评估和量化机器学习有效性](https://xz.aliyun.com/t/2951)
 
-## Web安全 ##
-### URL异常检测 ###
+### Web安全 ###
+### Web安全之URL异常检测 ###
 - [基于机器学习的web异常检测](https://www.freebuf.com/articles/web/126543.html)
 - [基于大数据和机器学习的Web异常参数检测系统Demo实现](https://www.freebuf.com/articles/web/134334.html)
 - [基于机器学习的web应用防火墙](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall)
@@ -70,14 +59,25 @@
 - [基于URL异常检测的机器学习模型mini部署](http://4o4notfound.org/index.php/archives/84/)
 - [我的AI安全检测学习笔记（一）](http://4o4notfound.org/index.php/archives/127/)
 
-### XSS检测 ###
+### Web安全之XSS检测 ###
 - [机器学习识别XSS实践](https://www.cdxy.me/?p=773)
 - [使用深度学习检测XSS](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A3%80%E6%B5%8BXSS/)
 - [使用深度学习检测XSS(续)](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A3%80%E6%B5%8BXSS%28%E7%BB%AD%29/)
 
-### Web攻击多分类检测 ###
+### Web安全之攻击多分类检测 ###
 - [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
 - [基于机器学习的攻击检测系统](https://www.freebuf.com/column/189981.html)
+
+### Web安全之Webshell检测 ###
+- [基于机器学习的分布式webshell检测系统-特征工程（1）](https://www.s0nnet.com/archives/fshell-feature-1)
+- [深度学习PHP webshell查杀引擎demo](https://www.cdxy.me/?p=788)
+- [使用机器学习识别WebShell](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
+- [基于机器学习的分布式Webshell检测系统](https://github.com/Lingerhk/fshell)
+- [GitChat · 安全 | 基于机器学习的 Webshell 发现技术探索](http://blog.csdn.net/GitChat/article/details/77932384?locationNum=4&fps=1)
+- [刘焱： Webshell 发现技术实战解析](http://gitbook.cn/books/5964d154cc597d3e0c08667c/index.html)
+- [安普诺张涛：再谈webshell检测](http://www.cnetsec.com/article/22593.html)
+- [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
+- [基于机器学习的WebShell检测方法与实现(上)](https://www.freebuf.com/articles/web/181169.html)
 
 ### 其他安全检测 ###
 - [机器学习在WindowsRDP版本和后门检测上的应用](https://www.anquanke.com/post/id/157175)
