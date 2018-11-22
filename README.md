@@ -39,7 +39,7 @@
 - [Malware Detection in Executables Using Neural Networks](https://devblogs.nvidia.com/malware-detection-neural-networks/)
 
 ### 恶意流量检测 ###
-**- [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)**
+- [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
 
 ### 域名安全 ###
 - [机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法](https://www.freebuf.com/articles/es/187451.html)
