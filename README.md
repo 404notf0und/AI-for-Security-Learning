@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/11/22
+最近更新日期为：2018/11/26
 
 同步更新于：404 Not Found：AI for Security
 
