@@ -1,5 +1,5 @@
 # AI-for-Security-Learning
-安全场景、基于AI的安全算法和安全数据分析学习笔记
+安全场景、基于AI的安全算法和安全数据分析学习笔记（工程类学习笔记，不包含论文、书籍、视频等）
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
@@ -26,8 +26,8 @@
 			- [弱口令检测]
 			- [鱼叉式网络钓鱼]
 	- [对抗篇](#对抗篇)
-		- [对抗样本](#对抗样本)
-
+		- [(用AI)攻击AI(模型、系统、框架)](#攻击AI)
+		- [使用AI攻击应用](#使用AI攻击应用)
 <!-- more -->
 
 # AI for Security Learning
@@ -89,11 +89,14 @@
 - [一种基于机器学习的自动化鱼叉式网络钓鱼思路](https://www.freebuf.com/articles/web/132811.html)
 
 ## 对抗篇 ##
-### 对抗样本 ###
+### 攻击AI ###
 - [安全领域中机器学习的对抗和博弈](http://bindog.github.io/blog/2016/11/13/game-playing-with-ml-in-security/)
 - [基础攻防场景下的AI对抗样本初探](https://www.cdxy.me/?p=798)
-- [AI与安全的恩怨情仇五部曲「1」Misuse AI](https://www.zuozuovera.com/archives/1565/)
 - [机器学习在安全攻防场景的应用与分析](https://www.freebuf.com/articles/neopoints/152457.html)
 - [使用生成对抗网络(GAN)生成DGA](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%28GAN%29%E7%94%9F%E6%88%90DGA/)
 - [详解如何使用Keras实现Wassertein GAN](https://mp.weixin.qq.com/s/F2gBP23LCEF72QDlugbBZQ)
 - [Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
+
+### 使用AI攻击应用 ###
+- [AI与Android漏洞挖掘的那些事儿](https://www.zybuluo.com/qinyun/note/957067)
+- [AI与安全的恩怨情仇五部曲「1」Misuse AI](https://www.zuozuovera.com/archives/1565/)
