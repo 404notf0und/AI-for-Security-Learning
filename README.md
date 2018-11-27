@@ -1,5 +1,5 @@
 # AI-for-Security-Learning
-安全场景、基于AI的安全算法和安全数据分析学习笔记（工程类学习笔记，不包含论文、书籍、视频等）
+安全场景、基于AI的安全算法和安全数据分析学习笔记（工程类学习笔记，不包含论文、书籍、视频等，不花里胡哨嘻嘻哈哈）
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
@@ -24,10 +24,13 @@
 			- [PowerShell检测]
 			- [用户行为(UBA)检测]
 			- [弱口令检测]
+			- [安全运营]
 	- [(使用AI)保护AI(框架、模型、系统)](#保护AI)
 - [对抗篇](#对抗篇)
 	- [使用AI攻击应用](#使用AI攻击应用)
-	- [(使用AI)攻击AI(模型、系统、框架)](#攻击AI)
+	- [(使用AI)攻击AI(框架、模型、系统)](#攻击AI)
+		- [攻击AI框架](#攻击AI框架)
+		- [攻击AI模型](#攻击AI模型)
 <!-- more -->
 
 # 防护篇 #
@@ -51,6 +54,7 @@
 ### 业务安全检测 ###
 - [基于设备指纹的风控建模以及机器学习的尝试](https://xz.aliyun.com/t/2801)
 - [如何在安全风控中评估和量化机器学习有效性](https://xz.aliyun.com/t/2951)
+- [人工智能反欺诈三部曲——特征工程](https://www.anquanke.com/post/id/85741)
 
 ### Web安全检测 ###
 ### Web安全之URL异常检测 ###
@@ -86,6 +90,7 @@
 - [用机器学习检测恶意PowerShell](https://xz.aliyun.com/t/2437)
 - [机器学习算法在用户行为检测(UBA)领域的应用](http://dearcharles.cn/2017/11/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B-UBA-%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/)
 - [利用机器学习和规则实现弱口令检测](https://manning23.github.io/2018/10/12/%E5%88%A9%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%A7%84%E5%88%99%E5%AE%9E%E7%8E%B0%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%A3%80%E6%B5%8B/)
+- [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
 
 ## 保护AI ##
 - [如何利用AI对抗“数据污染”和”数据中毒“？](https://www.anquanke.com/post/id/150653)
@@ -98,6 +103,10 @@
 - [一种基于机器学习的自动化鱼叉式网络钓鱼思路](https://www.freebuf.com/articles/web/132811.html)
 
 ## 攻击AI ##
+### 攻击AI框架 ###
+- [深度学习框架中的魔鬼——探究人工智能系统中的安全问题](https://www.anquanke.com/post/id/86989)
+
+### 攻击AI模型 ###
 - [安全领域中机器学习的对抗和博弈](http://bindog.github.io/blog/2016/11/13/game-playing-with-ml-in-security/)
 - [基础攻防场景下的AI对抗样本初探](https://www.cdxy.me/?p=798)
 - [机器学习在安全攻防场景的应用与分析](https://www.freebuf.com/articles/neopoints/152457.html)
