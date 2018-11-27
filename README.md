@@ -3,18 +3,18 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/11/26
+最近更新日期为：2018/11/27
 
 同步更新于：404 Not Found：AI for Security
 
 目录：
-- [AI for Security Learning](#AI-for-Security-Learning)
-	- [防护篇](#防护篇)
+- [防护篇](#防护篇)
+	- [使用AI保护应用](#使用AI保护应用)
 		- [恶意软件和代码](#恶意软件和代码)
 		- [恶意流量检测](#恶意流量检测)
-		- [域名安全](#域名安全)
-		- [业务安全](#业务安全)
-		- [Web安全](#Web安全)
+		- [域名安全检测](#域名安全)
+		- [业务安全检测](#业务安全)
+		- [Web安全检测](#Web安全)
 			- [URL异常检测](#Web安全之URL异常检测)
 			- [XSS检测](#Web安全之XSS检测)
 			- [Web攻击多分类检测](#Web安全之攻击多分类检测)
@@ -24,14 +24,14 @@
 			- [PowerShell检测]
 			- [用户行为(UBA)检测]
 			- [弱口令检测]
-			- [鱼叉式网络钓鱼]
-	- [对抗篇](#对抗篇)
-		- [(用AI)攻击AI(模型、系统、框架)](#攻击AI)
-		- [使用AI攻击应用](#使用AI攻击应用)
+	- [(使用AI)保护AI(框架、模型、系统)](#保护AI)
+- [对抗篇](#对抗篇)
+	- [使用AI攻击应用](#使用AI攻击应用)
+	- [(使用AI)攻击AI(模型、系统、框架)](#攻击AI)
 <!-- more -->
 
-# AI for Security Learning
-## 防护篇 ##
+# 防护篇 #
+## 使用AI保护应用 ##
 ### 恶意软件和代码 ###
 - [深度学习在恶意软件检测中的应用](https://xz.aliyun.com/t/2447)
 - [恶意软件与数据分析](https://iami.xyz/AliSEC3/)
@@ -43,16 +43,16 @@
 ### 恶意流量检测 ###
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
 
-### 域名安全 ###
+### 域名安全检测 ###
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
 - [使用CNN检测DNS隧道](https://github.com/BoneLee/dns_tunnel_dectect_with_CNN)
 - [机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法](https://www.freebuf.com/articles/es/187451.html)
 
-### 业务安全 ###
+### 业务安全检测 ###
 - [基于设备指纹的风控建模以及机器学习的尝试](https://xz.aliyun.com/t/2801)
 - [如何在安全风控中评估和量化机器学习有效性](https://xz.aliyun.com/t/2951)
 
-### Web安全 ###
+### Web安全检测 ###
 ### Web安全之URL异常检测 ###
 - [基于机器学习的web异常检测](https://www.freebuf.com/articles/web/126543.html)
 - [基于大数据和机器学习的Web异常参数检测系统Demo实现](https://www.freebuf.com/articles/web/134334.html)
@@ -86,10 +86,18 @@
 - [用机器学习检测恶意PowerShell](https://xz.aliyun.com/t/2437)
 - [机器学习算法在用户行为检测(UBA)领域的应用](http://dearcharles.cn/2017/11/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B-UBA-%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/)
 - [利用机器学习和规则实现弱口令检测](https://manning23.github.io/2018/10/12/%E5%88%A9%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%A7%84%E5%88%99%E5%AE%9E%E7%8E%B0%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%A3%80%E6%B5%8B/)
+
+## 保护AI ##
+- [如何利用AI对抗“数据污染”和”数据中毒“？](https://www.anquanke.com/post/id/150653)
+
+
+# 对抗篇 #
+## 使用AI攻击应用 ##
+- [AI与Android漏洞挖掘的那些事儿](https://www.zybuluo.com/qinyun/note/957067)
+- [AI与安全的恩怨情仇五部曲「1」Misuse AI](https://www.zuozuovera.com/archives/1565/)
 - [一种基于机器学习的自动化鱼叉式网络钓鱼思路](https://www.freebuf.com/articles/web/132811.html)
 
-## 对抗篇 ##
-### 攻击AI ###
+## 攻击AI ##
 - [安全领域中机器学习的对抗和博弈](http://bindog.github.io/blog/2016/11/13/game-playing-with-ml-in-security/)
 - [基础攻防场景下的AI对抗样本初探](https://www.cdxy.me/?p=798)
 - [机器学习在安全攻防场景的应用与分析](https://www.freebuf.com/articles/neopoints/152457.html)
@@ -97,6 +105,3 @@
 - [详解如何使用Keras实现Wassertein GAN](https://mp.weixin.qq.com/s/F2gBP23LCEF72QDlugbBZQ)
 - [Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
 
-### 使用AI攻击应用 ###
-- [AI与Android漏洞挖掘的那些事儿](https://www.zybuluo.com/qinyun/note/957067)
-- [AI与安全的恩怨情仇五部曲「1」Misuse AI](https://www.zuozuovera.com/archives/1565/)
