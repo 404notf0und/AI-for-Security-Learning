@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/11/27
+最近更新日期为：2018/12/1
 
 同步更新于：404 Not Found：AI for Security
 
@@ -19,6 +19,7 @@
 			- [XSS检测](#Web安全之XSS检测)
 			- [Web攻击多分类检测](#Web安全之攻击多分类检测)
 			- [Webshell检测](#Web安全之Webshell检测)
+			- [Other](#Web安全之其他)
 		- [杂项](#杂项)
 			- WindowsRDP检测
 			- PowerShell检测
@@ -84,6 +85,9 @@
 - [安普诺张涛：再谈webshell检测](http://www.cnetsec.com/article/22593.html)
 - [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
 - [基于机器学习的WebShell检测方法与实现(上)](https://www.freebuf.com/articles/web/181169.html)
+
+### Web安全之其他 ###
+- [Web安全检测中机器学习的经验之谈](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
 
 ### 杂项 ###
 - [机器学习在WindowsRDP版本和后门检测上的应用](https://www.anquanke.com/post/id/157175)
