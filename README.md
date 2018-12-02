@@ -3,9 +3,9 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/12/1
+最近更新日期为：2018/12/2
 
-同步更新于：404 Not Found：AI for Security
+同步更新于：[404 Not Found：AI for Security](http://www.4o4notfound.org)
 
 目录：
 - [防护篇](#防护篇)
@@ -26,10 +26,10 @@
 			- 用户行为(UBA)检测
 			- 弱口令检测
 			- 安全运营
-	- [(使用AI)保护AI(框架、模型、系统)](#保护AI)
+	- [(使用AI)保护AI(框架、数据、模型、系统)](#保护AI)
 - [对抗篇](#对抗篇)
 	- [使用AI攻击应用](#使用AI攻击应用)
-	- [(使用AI)攻击AI(框架、模型、系统)](#攻击AI)
+	- [(使用AI)攻击AI(框架、数据、模型、系统)](#攻击AI)
 		- [攻击AI框架](#攻击AI框架)
 		- [攻击AI模型](#攻击AI模型)
 <!-- more -->
@@ -98,7 +98,7 @@
 
 ## 保护AI ##
 - [如何利用AI对抗“数据污染”和”数据中毒“？](https://www.anquanke.com/post/id/150653)
-
+- [对抗数据中毒--机器学习在阿里巴巴网络安全的应用](https://www.leiphone.com/news/201806/rYrfwtaeCNohEf0D.html)
 
 # 对抗篇 #
 ## 使用AI攻击应用 ##
