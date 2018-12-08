@@ -3,7 +3,11 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/12/2
+最近更新日期为：2018/12/8
+
+新增：
+- [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
+- [NLP机器学习模型安全性及实践](https://bbs.pediy.com/thread-230125.htm)
 
 同步更新于：[404 Not Found：AI for Security](http://www.4o4notfound.org)
 
@@ -56,6 +60,7 @@
 - [基于设备指纹的风控建模以及机器学习的尝试](https://xz.aliyun.com/t/2801)
 - [如何在安全风控中评估和量化机器学习有效性](https://xz.aliyun.com/t/2951)
 - [人工智能反欺诈三部曲——特征工程](https://www.anquanke.com/post/id/85741)
+- [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
 
 ### Web安全检测 ###
 ### Web安全之URL异常检测 ###
@@ -118,4 +123,5 @@
 - [详解如何使用Keras实现Wassertein GAN](https://mp.weixin.qq.com/s/F2gBP23LCEF72QDlugbBZQ)
 - [Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
 - [对深度学习的逃逸攻击 ——探究人工智能系统中的安全盲区](https://www.anquanke.com/post/id/87037)
+- [NLP机器学习模型安全性及实践](https://bbs.pediy.com/thread-230125.htm)
 
