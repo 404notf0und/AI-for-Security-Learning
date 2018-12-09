@@ -3,11 +3,13 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/12/8
+最近更新日期为：2018/12/9
 
 新增：
 - [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
 - [NLP机器学习模型安全性及实践](https://bbs.pediy.com/thread-230125.htm)
+- [对深度学习的降维攻击 — 人工智能系统数据流中的安全风险](https://www.anquanke.com/post/id/95095)
+- [DEFCON CHINA议题解读 | 对深度学习系统的数据流攻击](https://www.anquanke.com/post/id/144837)
 
 同步更新于：[404 Not Found：AI for Security](http://www.4o4notfound.org)
 
@@ -114,6 +116,8 @@
 ## 攻击AI ##
 ### 攻击AI框架 ###
 - [深度学习框架中的魔鬼——探究人工智能系统中的安全问题](https://www.anquanke.com/post/id/86989)
+- [对深度学习的降维攻击 — 人工智能系统数据流中的安全风险](https://www.anquanke.com/post/id/95095)
+- [DEFCON CHINA议题解读 | 对深度学习系统的数据流攻击](https://www.anquanke.com/post/id/144837)
 
 ### 攻击AI模型 ###
 - [安全领域中机器学习的对抗和博弈](http://bindog.github.io/blog/2016/11/13/game-playing-with-ml-in-security/)
