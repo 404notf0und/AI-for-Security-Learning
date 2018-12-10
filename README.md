@@ -10,6 +10,7 @@
 - [NLP机器学习模型安全性及实践](https://bbs.pediy.com/thread-230125.htm)
 - [对深度学习的降维攻击 — 人工智能系统数据流中的安全风险](https://www.anquanke.com/post/id/95095)
 - [DEFCON CHINA议题解读 | 对深度学习系统的数据流攻击](https://www.anquanke.com/post/id/144837)
+- [机器学习对抗性攻击报告](https://mp.weixin.qq.com/s/QKXd9AKkVwk3CO45-BbZSA?)
 
 同步更新于：[404 Not Found：AI for Security](http://www.4o4notfound.org)
 
@@ -128,4 +129,5 @@
 - [Is attacking machine learning easier than defending it?](http://www.cleverhans.io/security/privacy/ml/2017/02/15/why-attacking-machine-learning-is-easier-than-defending-it.html)
 - [对深度学习的逃逸攻击 ——探究人工智能系统中的安全盲区](https://www.anquanke.com/post/id/87037)
 - [NLP机器学习模型安全性及实践](https://bbs.pediy.com/thread-230125.htm)
+- [机器学习对抗性攻击报告](https://mp.weixin.qq.com/s/QKXd9AKkVwk3CO45-BbZSA?)
 
