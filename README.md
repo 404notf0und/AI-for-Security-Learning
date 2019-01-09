@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/12/14
+最近更新日期为：2018/1/9
 
 新增：
 - [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
@@ -12,6 +12,8 @@
 - [DEFCON CHINA议题解读 | 对深度学习系统的数据流攻击](https://www.anquanke.com/post/id/144837)
 - [机器学习对抗性攻击报告](https://mp.weixin.qq.com/s/QKXd9AKkVwk3CO45-BbZSA?)
 - [机器学习实践-DGA检测](http://galaxylab.org/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%B7%B5-dga%E6%A3%80%E6%B5%8B/)
+- [用机器学习进行恶意软件检测——以阿里云恶意软件检测比赛为例](https://xz.aliyun.com/t/3704)
+- [第二届微软恶意软件预测挑战赛初探](http://4o4notfound.org/index.php/archives/179/)
 
 同步更新于：[404 Not Found：AI for Security](http://www.4o4notfound.org)
 
@@ -51,6 +53,8 @@
 - [用机器学习检测Android恶意代码](http://drops.xmd5.com/static/drops/mobile-13428.html)
 - [Malware Detection in Executables Using Neural Networks](https://devblogs.nvidia.com/malware-detection-neural-networks/)
 - [基于深度学习的恶意样本行为检测(含源码)](https://www.freebuf.com/articles/system/182566.html)
+- [用机器学习进行恶意软件检测——以阿里云恶意软件检测比赛为例](https://xz.aliyun.com/t/3704)
+- [第二届微软恶意软件预测挑战赛初探](http://4o4notfound.org/index.php/archives/179/)
 
 ### 恶意流量检测 ###
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
