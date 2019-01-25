@@ -1,21 +1,17 @@
 # AI-for-Security-Learning
-安全场景、基于AI的安全算法和安全数据分析学习笔记（工程类学习笔记，不包含论文、书籍、视频等，不花里胡哨嘻嘻哈哈）
+安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记）
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/1/9
+最近更新日期为：2018/1/25
 
 新增：
-- [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
-- [NLP机器学习模型安全性及实践](https://bbs.pediy.com/thread-230125.htm)
-- [对深度学习的降维攻击 — 人工智能系统数据流中的安全风险](https://www.anquanke.com/post/id/95095)
-- [DEFCON CHINA议题解读 | 对深度学习系统的数据流攻击](https://www.anquanke.com/post/id/144837)
-- [机器学习对抗性攻击报告](https://mp.weixin.qq.com/s/QKXd9AKkVwk3CO45-BbZSA?)
-- [机器学习实践-DGA检测](http://galaxylab.org/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%B7%B5-dga%E6%A3%80%E6%B5%8B/)
-- [用机器学习进行恶意软件检测——以阿里云恶意软件检测比赛为例](https://xz.aliyun.com/t/3704)
-- [第二届微软恶意软件预测挑战赛初探](http://4o4notfound.org/index.php/archives/179/)
-
-同步更新于：[404 Not Found：AI for Security](http://www.4o4notfound.org)
+- [Weaponizing data science for social engineering:
+Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter-wp.pdf)
+- [Deep Exploit: Fully automatic penetration test tool using Machine Learning](https://securityonline.info/deep-exploit/)
+- [GyoiThon: Fully automatic penetration test tool using Machine Learning](https://github.com/gyoisamurai/GyoiThon)
+- [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
+同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
 目录：
 - [防护篇](#防护篇)
@@ -70,6 +66,7 @@
 - [如何在安全风控中评估和量化机器学习有效性](https://xz.aliyun.com/t/2951)
 - [人工智能反欺诈三部曲——特征工程](https://www.anquanke.com/post/id/85741)
 - [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
+- [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
 
 ### Web安全检测 ###
 ### Web安全之URL异常检测 ###
@@ -119,6 +116,10 @@
 - [AI与Android漏洞挖掘的那些事儿](https://www.zybuluo.com/qinyun/note/957067)
 - [AI与安全的恩怨情仇五部曲「1」Misuse AI](https://www.zuozuovera.com/archives/1565/)
 - [一种基于机器学习的自动化鱼叉式网络钓鱼思路](https://www.freebuf.com/articles/web/132811.html)
+- [Weaponizing data science for social engineering:
+Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter-wp.pdf)
+- [Deep Exploit: Fully automatic penetration test tool using Machine Learning](https://securityonline.info/deep-exploit/)
+- [GyoiThon: Fully automatic penetration test tool using Machine Learning](https://github.com/gyoisamurai/GyoiThon)
 
 ## 攻击AI ##
 ### 攻击AI框架 ###
