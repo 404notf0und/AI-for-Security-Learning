@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/1/25
+最近更新日期为：2018/1/31
 
 新增：
 - [Weaponizing data science for social engineering:
@@ -11,6 +11,7 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [Deep Exploit: Fully automatic penetration test tool using Machine Learning](https://securityonline.info/deep-exploit/)
 - [GyoiThon: Fully automatic penetration test tool using Machine Learning](https://github.com/gyoisamurai/GyoiThon)
 - [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
+- [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -92,11 +93,12 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [深度学习PHP webshell查杀引擎demo](https://www.cdxy.me/?p=788)
 - [使用机器学习识别WebShell](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 - [基于机器学习的分布式Webshell检测系统](https://github.com/Lingerhk/fshell)
-- [GitChat · 安全 | 基于机器学习的 Webshell 发现技术探索](http://blog.csdn.net/GitChat/article/details/77932384?locationNum=4&fps=1)
+- [基于机器学习的Webshell发现技术探索](https://mp.weixin.qq.com/s/1V0xcjH-6V5qJoJILP0pJQ)
 - [刘焱： Webshell 发现技术实战解析](http://gitbook.cn/books/5964d154cc597d3e0c08667c/index.html)
 - [安普诺张涛：再谈webshell检测](http://www.cnetsec.com/article/22593.html)
 - [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
 - [基于机器学习的WebShell检测方法与实现(上)](https://www.freebuf.com/articles/web/181169.html)
+- [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
 
 ### Web安全之其他 ###
 - [Web安全检测中机器学习的经验之谈](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
