@@ -1,5 +1,5 @@
 # AI-for-Security-Learning
-安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记）
+安全场景、基于AI的安全算法和安全数据分析学习笔记
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
@@ -14,6 +14,10 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
 - [APT detection based on machine learning](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484139&idx=1&sn=0da63a49f341eccc0bb48c954d8ebbb4&chksm=fe2efd60c95974767521fe6a6b7257a1d05e5482fc7ddeda281bdf0f0deb20add82d1a82d8ec&mpshare=1&scene=1&srcid=&pass_ticket=bjnNiDKomd79pQvRonW%2BXsTe6JrO%2FFs6oII12dZaLBPuQOtNK6Rzh9WSJ%2B%2F89ZUA#rd)
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
+- [ExecScent: Mining for New C&C Domains in Live
+Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
+- [MADE: Security Analytics for Enterprise Threat Detection
+](http://www.ccs.neu.edu/home/alina/papers/MADE.pdf)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -31,12 +35,12 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 			- [Webshell检测](#Web安全之Webshell检测)
 			- [Other](#Web安全之其他)
 		- [APT检测](#APT检测)
+		- [安全运营](#安全运营)
 		- [杂项](#杂项)
 			- WindowsRDP检测
 			- PowerShell检测
 			- 用户行为(UBA)检测
 			- 弱口令检测
-			- 安全运营
 	- [(使用AI)保护AI(框架、数据、模型、系统)](#保护AI)
 - [对抗篇](#对抗篇)
 	- [使用AI攻击应用](#使用AI攻击应用)
@@ -59,6 +63,10 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 
 ### 恶意流量检测 ###
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
+- [ExecScent: Mining for New C&C Domains in Live
+Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
+- [MADE: Security Analytics for Enterprise Threat Detection
+](http://www.ccs.neu.edu/home/alina/papers/MADE.pdf)
 
 ### 域名安全检测 ###
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
@@ -109,12 +117,14 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 ### APT检测
 - [APT detection based on machine learning](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484139&idx=1&sn=0da63a49f341eccc0bb48c954d8ebbb4&chksm=fe2efd60c95974767521fe6a6b7257a1d05e5482fc7ddeda281bdf0f0deb20add82d1a82d8ec&mpshare=1&scene=1&srcid=&pass_ticket=bjnNiDKomd79pQvRonW%2BXsTe6JrO%2FFs6oII12dZaLBPuQOtNK6Rzh9WSJ%2B%2F89ZUA#rd)
 
+### 安全运营
+- [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
+
 ### 杂项 ###
 - [机器学习在WindowsRDP版本和后门检测上的应用](https://www.anquanke.com/post/id/157175)
 - [用机器学习检测恶意PowerShell](https://xz.aliyun.com/t/2437)
 - [机器学习算法在用户行为检测(UBA)领域的应用](http://dearcharles.cn/2017/11/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B-UBA-%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/)
 - [利用机器学习和规则实现弱口令检测](https://manning23.github.io/2018/10/12/%E5%88%A9%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%A7%84%E5%88%99%E5%AE%9E%E7%8E%B0%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%A3%80%E6%B5%8B/)
-- [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
 
 ## 保护AI ##
 - [如何利用AI对抗“数据污染”和”数据中毒“？](https://www.anquanke.com/post/id/150653)
