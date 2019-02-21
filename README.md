@@ -3,9 +3,9 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/2/16
+最近更新日期为：2018/2/20
 
-新增：
+新增（正在学习）：
 - [Weaponizing data science for social engineering:
 Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter-wp.pdf)
 - [Deep Exploit: Fully automatic penetration test tool using Machine Learning](https://securityonline.info/deep-exploit/)
@@ -18,6 +18,7 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
 - [MADE: Security Analytics for Enterprise Threat Detection
 ](http://www.ccs.neu.edu/home/alina/papers/MADE.pdf)
+- [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -80,6 +81,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [人工智能反欺诈三部曲——特征工程](https://www.anquanke.com/post/id/85741)
 - [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
 - [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
+- [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
 
 ### Web安全检测 ###
 ### Web安全之URL异常检测 ###
@@ -157,4 +159,6 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [NLP机器学习模型安全性及实践](https://bbs.pediy.com/thread-230125.htm)
 - [机器学习对抗性攻击报告](https://mp.weixin.qq.com/s/QKXd9AKkVwk3CO45-BbZSA?)
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
+
+ps：随着学习门槛的提高，公开的工业界资料已经相对匮乏，所以开始学习一些学术界较新的paper，理解吃透再工程化。
 
