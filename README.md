@@ -81,7 +81,6 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [人工智能反欺诈三部曲——特征工程](https://www.anquanke.com/post/id/85741)
 - [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
 - [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
-- [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
 
 ### Web安全检测 ###
 ### Web安全之URL异常检测 ###
@@ -141,6 +140,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter-wp.pdf)
 - [Deep Exploit: Fully automatic penetration test tool using Machine Learning](https://securityonline.info/deep-exploit/)
 - [GyoiThon: Fully automatic penetration test tool using Machine Learning](https://github.com/gyoisamurai/GyoiThon)
+- [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
 
 ## 攻击AI ##
 ### 攻击AI框架 ###
