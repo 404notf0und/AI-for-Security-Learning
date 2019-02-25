@@ -1,5 +1,5 @@
 # AI-for-Security-Learning
-安全场景、基于AI的安全算法和安全数据分析学习笔记
+安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记）
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
@@ -163,4 +163,5 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 # 心得体会
 1. 随着学习门槛的提高，公开的工业界资料已经相对匮乏，所以开始学习一些学术界较新的paper，理解吃透再工程化。
 2. Reinforcement Learning + Deep Learning = AI
+3. 人工智能技术应用于网络安全等各个垂直领域已经是大势所趋（虽然不得不承认有其局限性，但是我们可以通过细划分场景有针对性的进行安全问题分解、抽象，结合机器学习技术解决问题）
 
