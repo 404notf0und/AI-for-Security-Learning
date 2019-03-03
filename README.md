@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/2/20
+最近更新日期为：2018/03/03
 
 新增（正在学习）：
 - [Weaponizing data science for social engineering:
@@ -12,12 +12,9 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [GyoiThon: Fully automatic penetration test tool using Machine Learning](https://github.com/gyoisamurai/GyoiThon)
 - [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
 - [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
-- [APT detection based on machine learning](https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247484139&idx=1&sn=0da63a49f341eccc0bb48c954d8ebbb4&chksm=fe2efd60c95974767521fe6a6b7257a1d05e5482fc7ddeda281bdf0f0deb20add82d1a82d8ec&mpshare=1&scene=1&srcid=&pass_ticket=bjnNiDKomd79pQvRonW%2BXsTe6JrO%2FFs6oII12dZaLBPuQOtNK6Rzh9WSJ%2B%2F89ZUA#rd)
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
 - [ExecScent: Mining for New C&C Domains in Live
 Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
-- [MADE: Security Analytics for Enterprise Threat Detection
-](http://www.ccs.neu.edu/home/alina/papers/MADE.pdf)
 - [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
@@ -48,6 +45,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 	- [(使用AI)攻击AI(框架、数据、模型、系统)](#攻击AI)
 		- [攻击AI框架](#攻击AI框架)
 		- [攻击AI模型](#攻击AI模型)
+- [心得体会](#心得体会)
 <!-- more -->
 
 # 防护篇 #
@@ -120,6 +118,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 
 ### 安全运营
 - [解决机器学习和安全运营之间的最后一公里问题](https://www.anquanke.com/post/id/163637)
+- [Data-Knowledge-Action: 企业安全数据分析入门](https://www.cdxy.me/?p=803)
 
 ### 杂项 ###
 - [机器学习在WindowsRDP版本和后门检测上的应用](https://www.anquanke.com/post/id/157175)
@@ -164,4 +163,7 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 1. 随着学习门槛的提高，公开的工业界资料已经相对匮乏，所以开始学习一些学术界较新的paper，理解吃透再工程化。
 2. Reinforcement Learning + Deep Learning = AI
 3. 人工智能技术应用于网络安全等各个垂直领域已经是大势所趋（虽然不得不承认有其局限性，但是我们可以通过细划分场景有针对性的进行安全问题分解、抽象，结合机器学习技术解决问题）
+4. 对安全场景、攻击模式、数据的认识深度，远比选择工具重要
+
+
 
