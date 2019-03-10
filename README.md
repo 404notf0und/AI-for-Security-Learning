@@ -1,9 +1,9 @@
 # AI-for-Security-Learning
-安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记）
+安全场景、基于AI的安全算法和安全数据分析学习笔记（偏工程类学习笔记），持续阅读，保持对业界技术的跟进和迭代
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/03/09
+最近更新日期为：2018/03/10
 
 新增（正在学习）：
 - [Weaponizing data science for social engineering:
@@ -25,7 +25,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [防护篇](#防护篇)
 	- [使用AI保护应用](#使用AI保护应用)
 		- [恶意样本检测](#恶意样本检测)
-		- [恶意流量检测](#恶意流量检测)
+		- [入侵检测](#入侵检测)
 		- [域名安全检测](#域名安全检测)
 		- [业务安全检测](#业务安全检测)
 		- [Web安全检测](#Web安全检测)
@@ -62,12 +62,13 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [用机器学习进行恶意软件检测——以阿里云恶意软件检测比赛为例](https://xz.aliyun.com/t/3704)
 - [第二届微软恶意软件预测挑战赛初探](http://4o4notfound.org/index.php/archives/179/)
 
-### 恶意流量检测 ###
+### 入侵检测 ###
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
 - [ExecScent: Mining for New C&C Domains in Live
 Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
 - [MADE: Security Analytics for Enterprise Threat Detection
 ](http://www.ccs.neu.edu/home/alina/papers/MADE.pdf)
+- [机器学习在互联网巨头公司实践](https://mp.weixin.qq.com/s/NFqUF824Rpr4g6wYWFpSNQ)
 
 ### 域名安全检测 ###
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
@@ -168,6 +169,8 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 2. Reinforcement Learning + Deep Learning = AI
 3. 人工智能技术应用于网络安全等各个垂直领域已经是大势所趋（虽然不得不承认有其局限性，但是我们可以通过细划分场景有针对性的进行安全问题分解、抽象，结合机器学习技术解决问题）
 4. 对安全场景、攻击模式、数据的认识深度，远比选择工具重要
+5. 加高自己的技术壁垒：业务业务业务，锻炼业务敏感性，理解业务需求，给出解决方案（基于业务的特征工程）
+
 
 
 
