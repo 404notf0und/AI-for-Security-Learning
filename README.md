@@ -3,21 +3,20 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/03/10
+最近更新日期为：2018/03/12
 
 新增（正在学习）：
 - [Weaponizing data science for social engineering:
 Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter-wp.pdf)
 - [Deep Exploit: Fully automatic penetration test tool using Machine Learning](https://securityonline.info/deep-exploit/)
 - [GyoiThon: Fully automatic penetration test tool using Machine Learning](https://github.com/gyoisamurai/GyoiThon)
-- [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
-- [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
 - [ExecScent: Mining for New C&C Domains in Live
 Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
 - [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
 - [RSAC 2019 | 机器学习算法分析引擎助力安全威胁推理分析](http://blog.nsfocus.net/machine-learning-algorithms-analysis-engine-security-threat-reasoning/)
 - [RSAC 2019 | 采用NLP机器学习来进行自动化合规风险治理](http://blog.nsfocus.net/automated-compliance-risk-management-nlp-machine-learning/)
+- [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -79,8 +78,8 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 ### 业务安全检测 ###
 - [基于设备指纹的风控建模以及机器学习的尝试](https://xz.aliyun.com/t/2801)
 - [如何在安全风控中评估和量化机器学习有效性](https://xz.aliyun.com/t/2951)
-- [人工智能反欺诈三部曲——特征工程](https://www.anquanke.com/post/id/85741)
 - [阿里巴巴直播内容风险防控中的AI力量](https://zhuanlan.zhihu.com/p/24690287)
+- [人工智能反欺诈三部曲——特征工程](https://www.anquanke.com/post/id/85741)
 - [人工智能反欺诈三部曲之：设备指纹](https://zhuanlan.zhihu.com/p/31712434)
 
 ### Web安全检测 ###
@@ -130,6 +129,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [用机器学习检测恶意PowerShell](https://xz.aliyun.com/t/2437)
 - [机器学习算法在用户行为检测(UBA)领域的应用](http://dearcharles.cn/2017/11/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B-UBA-%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/)
 - [利用机器学习和规则实现弱口令检测](https://manning23.github.io/2018/10/12/%E5%88%A9%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%A7%84%E5%88%99%E5%AE%9E%E7%8E%B0%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%A3%80%E6%B5%8B/)
+- [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security)
 
 ## 保护AI ##
 - [如何利用AI对抗“数据污染”和”数据中毒“？](https://www.anquanke.com/post/id/150653)
