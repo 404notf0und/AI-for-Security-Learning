@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/05/28
+最近更新日期为：2018/05/29
 
 新增：
 - [Weaponizing data science for social engineering:
@@ -17,6 +17,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security)
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
 - [DataCon 2019: 1st place solution of malicious DNS traffic & DGA analysis](https://www.cdxy.me/?p=806)
+- [机器学习在入侵检测方面的应用 - 基于ADFA-LD训练集训练入侵检测判别模型](https://www.cnblogs.com/LittleHann/p/7806093.html#_lab2_0_1)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -68,6 +69,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [MADE: Security Analytics for Enterprise Threat Detection
 ](http://www.ccs.neu.edu/home/alina/papers/MADE.pdf)
 - [机器学习在互联网巨头公司实践](https://mp.weixin.qq.com/s/NFqUF824Rpr4g6wYWFpSNQ)
+- [机器学习在入侵检测方面的应用 - 基于ADFA-LD训练集训练入侵检测判别模型](https://www.cnblogs.com/LittleHann/p/7806093.html#_lab2_0_1)
 
 ### 域名安全检测 ###
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
