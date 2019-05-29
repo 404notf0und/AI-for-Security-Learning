@@ -15,8 +15,8 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security)
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
 - [DataCon 2019: 1st place solution of malicious DNS traffic & DGA analysis](https://www.cdxy.me/?p=806)
-- [机器学习在入侵检测方面的应用 - 基于ADFA-LD训练集训练入侵检测判别模型](https://www.cnblogs.com/LittleHann/p/7806093.html#_lab2_0_1)
 - [A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007/978-3-319-78813-5_22)
+- [POSTER: A PU Learning based System for Potential Malicious URL Detection](https://dl.acm.org/citation.cfm?id=3138825)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -94,6 +94,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [基于URL异常检测的机器学习模型mini部署](http://4o4notfound.org/index.php/archives/84/)
 - [我的AI安全检测学习笔记（一）](http://4o4notfound.org/index.php/archives/127/)
 - [A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007/978-3-319-78813-5_22)
+- [POSTER: A PU Learning based System for Potential Malicious URL Detection](https://dl.acm.org/citation.cfm?id=3138825)
 
 ### Web安全之XSS检测 ###
 - [机器学习识别XSS实践](https://www.cdxy.me/?p=773)
