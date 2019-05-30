@@ -3,11 +3,9 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/05/29
+最近更新日期为：2018/05/30
 
 新增：
-- [Deep Exploit: Fully automatic penetration test tool using Machine Learning](https://securityonline.info/deep-exploit/)
-- [GyoiThon: Fully automatic penetration test tool using Machine Learning](https://github.com/gyoisamurai/GyoiThon)
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
 - [ExecScent: Mining for New C&C Domains in Live
 Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
@@ -17,6 +15,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [DataCon 2019: 1st place solution of malicious DNS traffic & DGA analysis](https://www.cdxy.me/?p=806)
 - [A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007/978-3-319-78813-5_22)
 - [POSTER: A PU Learning based System for Potential Malicious URL Detection](https://dl.acm.org/citation.cfm?id=3138825)
+- [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -69,6 +68,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 ](http://www.ccs.neu.edu/home/alina/papers/MADE.pdf)
 - [机器学习在互联网巨头公司实践](https://mp.weixin.qq.com/s/NFqUF824Rpr4g6wYWFpSNQ)
 - [机器学习在入侵检测方面的应用 - 基于ADFA-LD训练集训练入侵检测判别模型](https://www.cnblogs.com/LittleHann/p/7806093.html#_lab2_0_1)
+- [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
 
 ### 域名安全检测 ###
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
