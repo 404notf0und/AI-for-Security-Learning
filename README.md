@@ -96,6 +96,9 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007/978-3-319-78813-5_22)
 - [POSTER: A PU Learning based System for Potential Malicious URL Detection](https://dl.acm.org/citation.cfm?id=3138825)
 
+### Web安全之SQLi检测
+- [三种特征向量对深度学习攻击检测的影响](https://manning23.github.io/2017/08/08/三种特征向量对深度学习攻击检测的影响/)
+
 ### Web安全之XSS检测 ###
 - [机器学习识别XSS实践](https://www.cdxy.me/?p=773)
 - [使用深度学习检测XSS](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A3%80%E6%B5%8BXSS/)
