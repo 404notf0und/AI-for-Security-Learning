@@ -17,6 +17,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [POSTER: A PU Learning based System for Potential Malicious URL Detection](https://dl.acm.org/citation.cfm?id=3138825)
 - [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
 - [DataCon 9102: DNS Analysis](https://github.com/shyoshyo/Datacon-9102-DNS)
+- [Datacon DNS攻击流量识别 内测笔记](http://momomoxiaoxi.com/数据分析/2019/04/24/datacondns1/)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -79,6 +80,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
 - [DataCon 2019: 1st place solution of malicious DNS traffic & DGA analysis](https://www.cdxy.me/?p=806)
 - [DataCon 9102: DNS Analysis](https://github.com/shyoshyo/Datacon-9102-DNS)
+- [Datacon DNS攻击流量识别 内测笔记](http://momomoxiaoxi.com/数据分析/2019/04/24/datacondns1/)
 
 ### 业务安全检测 ###
 - [基于设备指纹的风控建模以及机器学习的尝试](https://xz.aliyun.com/t/2801)
