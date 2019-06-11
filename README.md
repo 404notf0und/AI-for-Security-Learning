@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/06/10
+最近更新日期为：2018/06/11
 
 新增：
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
@@ -13,7 +13,6 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security)
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
 - [DataCon 2019: 1st place solution of malicious DNS traffic & DGA analysis](https://www.cdxy.me/?p=806)
-- [A Deep Learning Based Online Malicious URL and DNS Detection Scheme](https://link.springer.com/chapter/10.1007/978-3-319-78813-5_22)
 - [POSTER: A PU Learning based System for Potential Malicious URL Detection](https://dl.acm.org/citation.cfm?id=3138825)
 - [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
 - [DataCon 9102: DNS Analysis](https://github.com/shyoshyo/Datacon-9102-DNS)
@@ -30,6 +29,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 		- [业务安全检测](#业务安全检测)
 		- [Web安全检测](#Web安全检测)
 			- [URL异常检测](#Web安全之URL异常检测)
+			- [SQLi检测](#Web安全之SQLi检测)
 			- [XSS检测](#Web安全之XSS检测)
 			- [Web攻击多分类检测](#Web安全之攻击多分类检测)
 			- [Webshell检测](#Web安全之Webshell检测)
