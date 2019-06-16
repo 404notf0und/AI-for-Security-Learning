@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/06/11
+最近更新日期为：2018/06/16
 
 新增：
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
@@ -17,6 +17,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
 - [DataCon 9102: DNS Analysis](https://github.com/shyoshyo/Datacon-9102-DNS)
 - [Datacon DNS攻击流量识别 内测笔记](http://momomoxiaoxi.com/数据分析/2019/04/24/datacondns1/)
+- [DataCon大数据安全分析比赛冠军思路分享：方向二-恶意代码检测](https://zhuanlan.zhihu.com/p/64252076)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -61,6 +62,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [基于深度学习的恶意样本行为检测(含源码)](https://www.freebuf.com/articles/system/182566.html)
 - [用机器学习进行恶意软件检测——以阿里云恶意软件检测比赛为例](https://xz.aliyun.com/t/3704)
 - [第二届微软恶意软件预测挑战赛初探](http://4o4notfound.org/index.php/archives/179/)
+- [DataCon大数据安全分析比赛冠军思路分享：方向二-恶意代码检测](https://zhuanlan.zhihu.com/p/64252076)
 
 ### 入侵检测 ###
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
