@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/06/16
+最近更新日期为：2018/08/17
 
 新增：
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
@@ -12,12 +12,8 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
 - [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security)
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
-- [DataCon 2019: 1st place solution of malicious DNS traffic & DGA analysis](https://www.cdxy.me/?p=806)
-- [POSTER: A PU Learning based System for Potential Malicious URL Detection](https://dl.acm.org/citation.cfm?id=3138825)
-- [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
-- [DataCon 9102: DNS Analysis](https://github.com/shyoshyo/Datacon-9102-DNS)
-- [Datacon DNS攻击流量识别 内测笔记](http://momomoxiaoxi.com/数据分析/2019/04/24/datacondns1/)
-- [DataCon大数据安全分析比赛冠军思路分享：方向二-恶意代码检测](https://zhuanlan.zhihu.com/p/64252076)
+- [第三届阿里云安全赛季军-0day](https://zhuanlan.zhihu.com/p/77492583)
+- [第三届阿里云安全算法挑战赛冠军代码](https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -63,6 +59,8 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [用机器学习进行恶意软件检测——以阿里云恶意软件检测比赛为例](https://xz.aliyun.com/t/3704)
 - [第二届微软恶意软件预测挑战赛初探](http://4o4notfound.org/index.php/archives/179/)
 - [DataCon大数据安全分析比赛冠军思路分享：方向二-恶意代码检测](https://zhuanlan.zhihu.com/p/64252076)
+- [第三届阿里云安全赛季军-0day](https://zhuanlan.zhihu.com/p/77492583)
+- [第三届阿里云安全算法挑战赛冠军代码](https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge)
 
 ### 入侵检测 ###
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
