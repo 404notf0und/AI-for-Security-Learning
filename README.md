@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2018/08/17
+最近更新日期为：2019/08/17
 
 新增：
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
