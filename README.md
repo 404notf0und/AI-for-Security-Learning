@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2019/08/17
+最近更新日期为：2019/10/24
 
 新增：
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
@@ -14,10 +14,13 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
 - [第三届阿里云安全赛季军-0day](https://zhuanlan.zhihu.com/p/77492583)
 - [第三届阿里云安全算法挑战赛冠军代码](https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge)
+- [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
+- [深度总结 | 机器智能的安全之困](https://mp.weixin.qq.com/s?__biz=MzU5ODUxNzEyNA==&mid=2247484911&idx=1&sn=6a7cc2268dda2aab38085c555c04b209&chksm=fe43b104c934381294eba27b1385bffbfaf9c984773eba4cf489f26357afb50f19b382c6b500&mpshare=1&scene=1&srcid=&sharer_sharetime=1571808765043&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&key=bad1bd95c2b983fbcd2131a6fe96a7eeee59983a46ca6da6917131030413a4871bd05d4f62253d3680caf742fedcc2273637369cd4b3193eea2832db38b59be8aa0f01f4c9526a8e0c14a2805d252e95&ascene=1&uin=MTA5NjU5ODIxNg%3D%3D&devicetype=Windows+7&version=6207014a&lang=zh_CN&pass_ticket=LGfguXV%2FO1DU8mbAUL8nHSOLBI0LcXBegrVpx%2FcaDZi0HZOJ1h6pp23xChmPHqPu)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
 目录：
+- [综述篇](#综述篇)
 - [防护篇](#防护篇)
 	- [使用AI保护应用](#使用AI保护应用)
 		- [恶意样本检测](#恶意样本检测)
@@ -47,6 +50,9 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [心得体会](#心得体会)
 <!-- more -->
 
+# 综述篇 #
+- [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
+- [深度总结 | 机器智能的安全之困](https://mp.weixin.qq.com/s?__biz=MzU5ODUxNzEyNA==&mid=2247484911&idx=1&sn=6a7cc2268dda2aab38085c555c04b209&chksm=fe43b104c934381294eba27b1385bffbfaf9c984773eba4cf489f26357afb50f19b382c6b500&mpshare=1&scene=1&srcid=&sharer_sharetime=1571808765043&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&key=bad1bd95c2b983fbcd2131a6fe96a7eeee59983a46ca6da6917131030413a4871bd05d4f62253d3680caf742fedcc2273637369cd4b3193eea2832db38b59be8aa0f01f4c9526a8e0c14a2805d252e95&ascene=1&uin=MTA5NjU5ODIxNg%3D%3D&devicetype=Windows+7&version=6207014a&lang=zh_CN&pass_ticket=LGfguXV%2FO1DU8mbAUL8nHSOLBI0LcXBegrVpx%2FcaDZi0HZOJ1h6pp23xChmPHqPu)
 # 防护篇 #
 ## 使用AI保护应用 ##
 ### 恶意样本检测 ###
