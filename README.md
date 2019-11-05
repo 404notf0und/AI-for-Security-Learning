@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2019/10/24
+最近更新日期为：2019/11/05
 
 新增：
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
@@ -16,6 +16,10 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [第三届阿里云安全算法挑战赛冠军代码](https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge)
 - [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
 - [深度总结 | 机器智能的安全之困](https://mp.weixin.qq.com/s?__biz=MzU5ODUxNzEyNA==&mid=2247484911&idx=1&sn=6a7cc2268dda2aab38085c555c04b209&chksm=fe43b104c934381294eba27b1385bffbfaf9c984773eba4cf489f26357afb50f19b382c6b500&mpshare=1&scene=1&srcid=&sharer_sharetime=1571808765043&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&key=bad1bd95c2b983fbcd2131a6fe96a7eeee59983a46ca6da6917131030413a4871bd05d4f62253d3680caf742fedcc2273637369cd4b3193eea2832db38b59be8aa0f01f4c9526a8e0c14a2805d252e95&ascene=1&uin=MTA5NjU5ODIxNg%3D%3D&devicetype=Windows+7&version=6207014a&lang=zh_CN&pass_ticket=LGfguXV%2FO1DU8mbAUL8nHSOLBI0LcXBegrVpx%2FcaDZi0HZOJ1h6pp23xChmPHqPu)
+- [**基于机器学习的恶意软件加密流量检测研究分享**](https://blog.riskivy.com/%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84%e6%81%b6%e6%84%8f%e8%bd%af%e4%bb%b6%e5%8a%a0%e5%af%86%e6%b5%81%e9%87%8f%e6%a3%80%e6%b5%8b/?from=groupmessage&isappinstalled=0)
+- [**探秘-基于机器学习的DNS隐蔽隧道检测方法与实现**](https://blog.riskivy.com/%e6%8e%a2%e7%a7%98-%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84dns%e9%9a%90%e8%94%bd%e9%9a%a7%e9%81%93%e6%a3%80%e6%b5%8b%e6%96%b9%e6%b3%95%e4%b8%8e%e5%ae%9e%e7%8e%b0/)
+- [**AI繁荣下的隐忧——Google Tensorflow安全风险剖析**](https://security.tencent.com/index.php/blog/msg/130)
+- [**污染TensorFlow模型: XCTF 2019 Final tfboys命题思路**](https://www.cdxy.me/?p=813)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -78,13 +82,15 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [机器学习在互联网巨头公司实践](https://mp.weixin.qq.com/s/NFqUF824Rpr4g6wYWFpSNQ)
 - [机器学习在入侵检测方面的应用 - 基于ADFA-LD训练集训练入侵检测判别模型](https://www.cnblogs.com/LittleHann/p/7806093.html#_lab2_0_1)
 - [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
+- [基于机器学习的恶意软件加密流量检测研究分享](https://blog.riskivy.com/%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84%e6%81%b6%e6%84%8f%e8%bd%af%e4%bb%b6%e5%8a%a0%e5%af%86%e6%b5%81%e9%87%8f%e6%a3%80%e6%b5%8b/?from=groupmessage&isappinstalled=0)
 
 ### 域名安全检测 ###
+- [机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法](https://www.freebuf.com/articles/es/187451.html)
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
 - [机器学习实践-DGA检测](http://galaxylab.org/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%B7%B5-dga%E6%A3%80%E6%B5%8B/)
 - [使用CNN检测DNS隧道](https://github.com/BoneLee/dns_tunnel_dectect_with_CNN)
-- [机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法](https://www.freebuf.com/articles/es/187451.html)
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
+- [探秘-基于机器学习的DNS隐蔽隧道检测方法与实现](https://blog.riskivy.com/%e6%8e%a2%e7%a7%98-%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84dns%e9%9a%90%e8%94%bd%e9%9a%a7%e9%81%93%e6%a3%80%e6%b5%8b%e6%96%b9%e6%b3%95%e4%b8%8e%e5%ae%9e%e7%8e%b0/)
 - [DataCon 2019: 1st place solution of malicious DNS traffic & DGA analysis](https://www.cdxy.me/?p=806)
 - [DataCon 9102: DNS Analysis](https://github.com/shyoshyo/Datacon-9102-DNS)
 - [Datacon DNS攻击流量识别 内测笔记](http://momomoxiaoxi.com/数据分析/2019/04/24/datacondns1/)
@@ -172,6 +178,7 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [深度学习框架中的魔鬼——探究人工智能系统中的安全问题](https://www.anquanke.com/post/id/86989)
 - [对深度学习的降维攻击 — 人工智能系统数据流中的安全风险](https://www.anquanke.com/post/id/95095)
 - [DEFCON CHINA议题解读 | 对深度学习系统的数据流攻击](https://www.anquanke.com/post/id/144837)
+- [AI繁荣下的隐忧——Google Tensorflow安全风险剖析](https://security.tencent.com/index.php/blog/msg/130)
 
 ### 攻击AI模型 ###
 - [安全领域中机器学习的对抗和博弈](http://bindog.github.io/blog/2016/11/13/game-playing-with-ml-in-security/)
@@ -183,6 +190,7 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [NLP机器学习模型安全性及实践](https://bbs.pediy.com/thread-230125.htm)
 - [机器学习对抗性攻击报告](https://mp.weixin.qq.com/s/QKXd9AKkVwk3CO45-BbZSA?)
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
+- [污染TensorFlow模型: XCTF 2019 Final tfboys命题思路](https://www.cdxy.me/?p=813)
 
 # 心得体会篇
 1. 随着学习门槛的提高，公开的工业界资料已经相对匮乏，所以开始学习一些学术界较新的paper，理解吃透再工程化。
