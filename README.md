@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2019/11/05
+最近更新日期为：2019/11/18
 
 新增：
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
@@ -20,6 +20,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [**探秘-基于机器学习的DNS隐蔽隧道检测方法与实现**](https://blog.riskivy.com/%e6%8e%a2%e7%a7%98-%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84dns%e9%9a%90%e8%94%bd%e9%9a%a7%e9%81%93%e6%a3%80%e6%b5%8b%e6%96%b9%e6%b3%95%e4%b8%8e%e5%ae%9e%e7%8e%b0/)
 - [**AI繁荣下的隐忧——Google Tensorflow安全风险剖析**](https://security.tencent.com/index.php/blog/msg/130)
 - [**污染TensorFlow模型: XCTF 2019 Final tfboys命题思路**](https://www.cdxy.me/?p=813)
+- [**anomaly-detection-through-reinforcement-learning**](https://zighra.com/blogs/anomaly-detection-through-reinforcement-learning/)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -83,6 +84,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [机器学习在入侵检测方面的应用 - 基于ADFA-LD训练集训练入侵检测判别模型](https://www.cnblogs.com/LittleHann/p/7806093.html#_lab2_0_1)
 - [datacon比赛方向三-攻击源与攻击者分析writeup](https://github.com/ReAbout/datacon)
 - [基于机器学习的恶意软件加密流量检测研究分享](https://blog.riskivy.com/%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84%e6%81%b6%e6%84%8f%e8%bd%af%e4%bb%b6%e5%8a%a0%e5%af%86%e6%b5%81%e9%87%8f%e6%a3%80%e6%b5%8b/?from=groupmessage&isappinstalled=0)
+- [anomaly-detection-through-reinforcement-learning](https://zighra.com/blogs/anomaly-detection-through-reinforcement-learning/)
 
 ### 域名安全检测 ###
 - [机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法](https://www.freebuf.com/articles/es/187451.html)
