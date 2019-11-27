@@ -3,14 +3,13 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2019/11/18
+最近更新日期为：2019/11/27
 
 新增：
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
 - [ExecScent: Mining for New C&C Domains in Live
 Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
 - [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
-- [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security)
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
 - [第三届阿里云安全赛季军-0day](https://zhuanlan.zhihu.com/p/77492583)
 - [第三届阿里云安全算法挑战赛冠军代码](https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge)
@@ -20,7 +19,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [**探秘-基于机器学习的DNS隐蔽隧道检测方法与实现**](https://blog.riskivy.com/%e6%8e%a2%e7%a7%98-%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84dns%e9%9a%90%e8%94%bd%e9%9a%a7%e9%81%93%e6%a3%80%e6%b5%8b%e6%96%b9%e6%b3%95%e4%b8%8e%e5%ae%9e%e7%8e%b0/)
 - [**AI繁荣下的隐忧——Google Tensorflow安全风险剖析**](https://security.tencent.com/index.php/blog/msg/130)
 - [**污染TensorFlow模型: XCTF 2019 Final tfboys命题思路**](https://www.cdxy.me/?p=813)
-- [**anomaly-detection-through-reinforcement-learning**](https://zighra.com/blogs/anomaly-detection-through-reinforcement-learning/)
+- [**使用TextCNN模型探究恶意软件检测问题**](https://xz.aliyun.com/t/6785)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -73,6 +72,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [DataCon大数据安全分析比赛冠军思路分享：方向二-恶意代码检测](https://zhuanlan.zhihu.com/p/64252076)
 - [第三届阿里云安全赛季军-0day](https://zhuanlan.zhihu.com/p/77492583)
 - [第三届阿里云安全算法挑战赛冠军代码](https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge)
+- [使用TextCNN模型探究恶意软件检测问题](https://xz.aliyun.com/t/6785)
 
 ### 入侵检测 ###
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
