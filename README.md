@@ -3,10 +3,9 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2019/11/27
+最近更新日期为：2019/12/11
 
 新增：
-- [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
 - [ExecScent: Mining for New C&C Domains in Live
 Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_nelms.pdf)
 - [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
@@ -20,6 +19,8 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [**AI繁荣下的隐忧——Google Tensorflow安全风险剖析**](https://security.tencent.com/index.php/blog/msg/130)
 - [**污染TensorFlow模型: XCTF 2019 Final tfboys命题思路**](https://www.cdxy.me/?p=813)
 - [**使用TextCNN模型探究恶意软件检测问题**](https://xz.aliyun.com/t/6785)
+- [**中科院信工所发布《深度学习系统的隐私与安全》综述论文，187篇文献总结**](https://mp.weixin.qq.com/s/B0FTTAppy_AUt6SXVFL-Pg)
+- [**Towards Privacy and Security of Deep Learning Systems: A Survey**](https://arxiv.org/pdf/1911.12562v1.pdf)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -176,13 +177,13 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN](https://arxiv.org/abs/1702.05983)
 
 ## 攻击AI ##
-### 攻击AI框架 ###
+### 攻击AI基础框架 ###
 - [深度学习框架中的魔鬼——探究人工智能系统中的安全问题](https://www.anquanke.com/post/id/86989)
 - [对深度学习的降维攻击 — 人工智能系统数据流中的安全风险](https://www.anquanke.com/post/id/95095)
 - [DEFCON CHINA议题解读 | 对深度学习系统的数据流攻击](https://www.anquanke.com/post/id/144837)
 - [AI繁荣下的隐忧——Google Tensorflow安全风险剖析](https://security.tencent.com/index.php/blog/msg/130)
 
-### 攻击AI模型 ###
+### 攻击AI数据/模型/系统 ###
 - [安全领域中机器学习的对抗和博弈](http://bindog.github.io/blog/2016/11/13/game-playing-with-ml-in-security/)
 - [基础攻防场景下的AI对抗样本初探](https://www.cdxy.me/?p=798)
 - [使用生成对抗网络(GAN)生成DGA](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%28GAN%29%E7%94%9F%E6%88%90DGA/)
@@ -193,6 +194,8 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [机器学习对抗性攻击报告](https://mp.weixin.qq.com/s/QKXd9AKkVwk3CO45-BbZSA?)
 - [从安全视角对机器学习的部分思考](https://mp.weixin.qq.com/s/kP4YuiksI1dfZdT8Z_j_cQ)
 - [污染TensorFlow模型: XCTF 2019 Final tfboys命题思路](https://www.cdxy.me/?p=813)
+- [中科院信工所发布《深度学习系统的隐私与安全》综述论文，187篇文献总结](https://mp.weixin.qq.com/s/B0FTTAppy_AUt6SXVFL-Pg)
+- [Towards Privacy and Security of Deep Learning Systems: A Survey](https://arxiv.org/pdf/1911.12562v1.pdf)
 
 # 心得体会篇
 1. 随着学习门槛的提高，公开的工业界资料已经相对匮乏，所以开始学习一些学术界较新的paper，理解吃透再工程化。
