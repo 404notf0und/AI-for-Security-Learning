@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2019/12/11
+最近更新日期为：2019/12/31
 
 新增：
 - [ExecScent: Mining for New C&C Domains in Live
@@ -12,7 +12,6 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
 - [第三届阿里云安全赛季军-0day](https://zhuanlan.zhihu.com/p/77492583)
 - [第三届阿里云安全算法挑战赛冠军代码](https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge)
-- [安全智能应用的一些迷思](https://zhuanlan.zhihu.com/p/88042567)
 - [深度总结 | 机器智能的安全之困](https://mp.weixin.qq.com/s?__biz=MzU5ODUxNzEyNA==&mid=2247484911&idx=1&sn=6a7cc2268dda2aab38085c555c04b209&chksm=fe43b104c934381294eba27b1385bffbfaf9c984773eba4cf489f26357afb50f19b382c6b500&mpshare=1&scene=1&srcid=&sharer_sharetime=1571808765043&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&key=bad1bd95c2b983fbcd2131a6fe96a7eeee59983a46ca6da6917131030413a4871bd05d4f62253d3680caf742fedcc2273637369cd4b3193eea2832db38b59be8aa0f01f4c9526a8e0c14a2805d252e95&ascene=1&uin=MTA5NjU5ODIxNg%3D%3D&devicetype=Windows+7&version=6207014a&lang=zh_CN&pass_ticket=LGfguXV%2FO1DU8mbAUL8nHSOLBI0LcXBegrVpx%2FcaDZi0HZOJ1h6pp23xChmPHqPu)
 - [**基于机器学习的恶意软件加密流量检测研究分享**](https://blog.riskivy.com/%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84%e6%81%b6%e6%84%8f%e8%bd%af%e4%bb%b6%e5%8a%a0%e5%af%86%e6%b5%81%e9%87%8f%e6%a3%80%e6%b5%8b/?from=groupmessage&isappinstalled=0)
 - [**探秘-基于机器学习的DNS隐蔽隧道检测方法与实现**](https://blog.riskivy.com/%e6%8e%a2%e7%a7%98-%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84dns%e9%9a%90%e8%94%bd%e9%9a%a7%e9%81%93%e6%a3%80%e6%b5%8b%e6%96%b9%e6%b3%95%e4%b8%8e%e5%ae%9e%e7%8e%b0/)
@@ -21,6 +20,9 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [**使用TextCNN模型探究恶意软件检测问题**](https://xz.aliyun.com/t/6785)
 - [**中科院信工所发布《深度学习系统的隐私与安全》综述论文，187篇文献总结**](https://mp.weixin.qq.com/s/B0FTTAppy_AUt6SXVFL-Pg)
 - [**Towards Privacy and Security of Deep Learning Systems: A Survey**](https://arxiv.org/pdf/1911.12562v1.pdf)
+- [**基于卷积神经网络的恶意代码家族标注**](https://xz.aliyun.com/t/6705)
+- [**Deep learning rises: New methods for detecting malicious PowerShell**](https://www.microsoft.com/security/blog/2019/09/03/deep-learning-rises-new-methods-for-detecting-malicious-powershell/)
+- [**使用生成对抗网络(GAN)生成DGA**](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%28GAN%29%E7%94%9F%E6%88%90DGA/)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -74,6 +76,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [第三届阿里云安全赛季军-0day](https://zhuanlan.zhihu.com/p/77492583)
 - [第三届阿里云安全算法挑战赛冠军代码](https://github.com/poteman/Alibaba-3rd-Security-Algorithm-Challenge)
 - [使用TextCNN模型探究恶意软件检测问题](https://xz.aliyun.com/t/6785)
+- [基于卷积神经网络的恶意代码家族标注](https://xz.aliyun.com/t/6705)
 
 ### 入侵检测 ###
 - [利用机器学习检测HTTP恶意外连流量](https://www.freebuf.com/column/170483.html)
@@ -91,6 +94,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [机器学习与威胁情报的融合：一种基于AI检测恶意域名的方法](https://www.freebuf.com/articles/es/187451.html)
 - [使用fasttext进行DGA检测](https://iami.xyz/DGA-Detect/)
 - [机器学习实践-DGA检测](http://galaxylab.org/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E8%B7%B5-dga%E6%A3%80%E6%B5%8B/)
+- [使用生成对抗网络(GAN)生成DGA](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%28GAN%29%E7%94%9F%E6%88%90DGA/)
 - [使用CNN检测DNS隧道](https://github.com/BoneLee/dns_tunnel_dectect_with_CNN)
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html)
 - [探秘-基于机器学习的DNS隐蔽隧道检测方法与实现](https://blog.riskivy.com/%e6%8e%a2%e7%a7%98-%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84dns%e9%9a%90%e8%94%bd%e9%9a%a7%e9%81%93%e6%a3%80%e6%b5%8b%e6%96%b9%e6%b3%95%e4%b8%8e%e5%ae%9e%e7%8e%b0/)
@@ -155,6 +159,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 ### 杂项 ###
 - [机器学习在WindowsRDP版本和后门检测上的应用](https://www.anquanke.com/post/id/157175)
 - [用机器学习检测恶意PowerShell](https://xz.aliyun.com/t/2437)
+- [Deep learning rises: New methods for detecting malicious PowerShell](https://www.microsoft.com/security/blog/2019/09/03/deep-learning-rises-new-methods-for-detecting-malicious-powershell/)
 - [机器学习算法在用户行为检测(UBA)领域的应用](http://dearcharles.cn/2017/11/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9C%A8%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%A3%80%E6%B5%8B-UBA-%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/)
 - [利用机器学习和规则实现弱口令检测](https://manning23.github.io/2018/10/12/%E5%88%A9%E7%94%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E8%A7%84%E5%88%99%E5%AE%9E%E7%8E%B0%E5%BC%B1%E5%8F%A3%E4%BB%A4%E6%A3%80%E6%B5%8B/)
 - [一个关于人工智能渗透测试分析系列](https://github.com/hongriSec/AI-Machine-Learning-Security)
