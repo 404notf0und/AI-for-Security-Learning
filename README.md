@@ -3,7 +3,7 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2020/02/12
+最近更新日期为：2020/04/15
 
 新增：
 - [CNN+BLSTM+CTC的验证码识别从训练到部署](https://mp.weixin.qq.com/s/2v86piOgtK_t--Pzu28LgQ)
@@ -19,6 +19,7 @@
 - [**Deep learning rises: New methods for detecting malicious PowerShell**](https://www.microsoft.com/security/blog/2019/09/03/deep-learning-rises-new-methods-for-detecting-malicious-powershell/)
 - [**使用生成对抗网络(GAN)生成DGA**](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%28GAN%29%E7%94%9F%E6%88%90DGA/)
 - [**机器学习在二进制代码相似性分析中的应用**](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458303210&idx=1&sn=345f8cec156ada8fa9bf6a6d6de83906&chksm=b1818a6086f60376e766baf472171d8e2c780b2913568b46b683e3112fcc5f86c9bf4c19e38b&mpshare=1&scene=1&srcid=&sharer_sharetime=1580984631757&sharer_shareid=5dc01f49f38fd64ff3e64844bc7d2ea7&exportkey=A0qHBeUryuXO6zhGWt5OJNw%3D&pass_ticket=gjTFXl4hPMTBWzlKpWZWqK8HivXQ8q7ChNndmw4I8JrdAK0jWWFvKIq7OMnO3BhL#rd)
+- [**基于AST的Webshell检测**](http://foreversong.cn/archives/1386)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -139,6 +140,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [新开始:webshell的检测](https://iami.xyz/New-Begin-For-Nothing/)
 - [基于机器学习的WebShell检测方法与实现(上)](https://www.freebuf.com/articles/web/181169.html)
 - [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
+- [基于AST的Webshell检测](http://foreversong.cn/archives/1386)
 
 ### Web安全之其他 ###
 - [Web安全检测中机器学习的经验之谈](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
