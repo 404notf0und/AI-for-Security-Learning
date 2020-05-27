@@ -9,6 +9,7 @@
 - [在网络安全领域应用机器学习的困难和对策](https://mp.weixin.qq.com/s/a04Lh49CKKrIbFW8-P1_Nw)
 - [AI与安全「2」：Attack AI（4）聊聊机器学习框架相关的CVE](https://www.anquanke.com/post/id/205508?from=timeline)
 - [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s/fTm1hUfRmm6ujmjvSHRLUA)
+- [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -40,8 +41,9 @@
 - [对抗篇](#对抗篇)
 	- [使用AI攻击应用](#使用AI攻击应用)
 	- [(使用AI)攻击AI(框架、数据、模型、系统)](#攻击AI)
-		- [攻击AI框架](#攻击AI框架)
+		- [攻击AI框架](#攻击AI基础框架)
 		- [攻击AI模型](#攻击AI模型)
+		- [攻击AI系统](#攻击AI系统)
 - [心得体会篇](#心得体会篇)
 - [学习交流篇](#学习交流篇)
 <!-- more -->
@@ -186,7 +188,7 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [AI繁荣下的隐忧——Google Tensorflow安全风险剖析](https://security.tencent.com/index.php/blog/msg/130)
 - [AI与安全「2」：Attack AI（4）聊聊机器学习框架相关的CVE](https://www.anquanke.com/post/id/205508?from=timeline)
 
-### 攻击AI数据/模型/系统 ###
+### 攻击AI数据/模型 ###
 - [安全领域中机器学习的对抗和博弈](http://bindog.github.io/blog/2016/11/13/game-playing-with-ml-in-security/)
 - [基础攻防场景下的AI对抗样本初探](https://www.cdxy.me/?p=798)
 - [使用生成对抗网络(GAN)生成DGA](http://webber.tech/posts/%E4%BD%BF%E7%94%A8%E7%94%9F%E6%88%90%E5%AF%B9%E6%8A%97%E7%BD%91%E7%BB%9C%28GAN%29%E7%94%9F%E6%88%90DGA/)
@@ -199,6 +201,10 @@ Automated E2E spear phishing on Twitter](https://www.blackhat.com/docs/us-16/mat
 - [污染TensorFlow模型: XCTF 2019 Final tfboys命题思路](https://www.cdxy.me/?p=813)
 - [中科院信工所发布《深度学习系统的隐私与安全》综述论文，187篇文献总结](https://mp.weixin.qq.com/s/B0FTTAppy_AUt6SXVFL-Pg)
 - [Towards Privacy and Security of Deep Learning Systems: A Survey](https://arxiv.org/pdf/1911.12562v1.pdf)
+
+### 攻击AI系统
+
+- [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
 
 # 心得体会篇
 1. 随着学习门槛的提高，公开的工业界资料已经相对匮乏，所以开始学习一些学术界较新的paper，理解吃透再工程化。
