@@ -8,6 +8,7 @@
 新增：
 - [在网络安全领域应用机器学习的困难和对策](https://mp.weixin.qq.com/s/a04Lh49CKKrIbFW8-P1_Nw)
 - [AI与安全「2」：Attack AI（4）聊聊机器学习框架相关的CVE](https://www.anquanke.com/post/id/205508?from=timeline)
+- [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s/fTm1hUfRmm6ujmjvSHRLUA)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -24,6 +25,7 @@
 			- [SQLi检测](#Web安全之SQLi检测)
 			- [XSS检测](#Web安全之XSS检测)
 			- [Web攻击多分类检测](#Web安全之攻击多分类检测)
+			- [WAF建设](#Web安全之WAF建设)
 			- [Webshell检测](#Web安全之Webshell检测)
 			- [Other](#Web安全之其他)
 		- [APT检测](#APT检测)
@@ -118,6 +120,10 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 ### Web安全之攻击多分类检测 ###
 - [基于机器学习的WEB攻击分类检测模型](https://www.freebuf.com/news/184687.html)
 - [基于机器学习的攻击检测系统](https://www.freebuf.com/column/189981.html)
+
+### Web安全之WAF建设
+
+- [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s/fTm1hUfRmm6ujmjvSHRLUA)
 
 ### Web安全之Webshell检测 ###
 - [基于机器学习的分布式webshell检测系统-特征工程（1）](https://www.s0nnet.com/archives/fshell-feature-1)
