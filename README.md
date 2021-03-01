@@ -28,6 +28,7 @@
 			- [Web攻击多分类检测](#Web安全之攻击多分类检测)
 			- [WAF建设](#Web安全之WAF建设)
 			- [Webshell检测](#Web安全之Webshell检测)
+			- [Web管理后台识别](#基于机器学习的Web管理后台识别方法探索)
 			- [Other](#Web安全之其他)
 		- [APT检测](#APT检测)
 		- [安全运营](#安全运营)
@@ -139,6 +140,9 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [基于机器学习的WebShell检测方法与实现(上)](https://www.freebuf.com/articles/web/181169.html)
 - [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
 - [基于AST的Webshell检测](http://foreversong.cn/archives/1386)
+
+### Web管理后台识别 ###
+- [基于机器学习的Web管理后台识别方法探索](https://security.tencent.com/index.php/blog/msg/176)
 
 ### Web安全之其他 ###
 - [Web安全检测中机器学习的经验之谈](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
