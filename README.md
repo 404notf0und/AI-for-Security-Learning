@@ -3,13 +3,10 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2020/05/27
+最近更新日期为：2021/03/01
 
 新增：
-- [在网络安全领域应用机器学习的困难和对策](https://mp.weixin.qq.com/s/a04Lh49CKKrIbFW8-P1_Nw)
-- [AI与安全「2」：Attack AI（4）聊聊机器学习框架相关的CVE](https://www.anquanke.com/post/id/205508?from=timeline)
-- [WAF建设运营及AI应用实践](https://mp.weixin.qq.com/s/fTm1hUfRmm6ujmjvSHRLUA)
-- [门神WAF众测总结](https://mp.weixin.qq.com/s/w5TwFl4Ac1jCTX0A1H_VbQ)
+- [基于机器学习的Web管理后台识别方法探索](https://security.tencent.com/index.php/blog/msg/176)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -28,7 +25,7 @@
 			- [Web攻击多分类检测](#Web安全之攻击多分类检测)
 			- [WAF建设](#Web安全之WAF建设)
 			- [Webshell检测](#Web安全之Webshell检测)
-			- [Web管理后台识别](#基于机器学习的Web管理后台识别方法探索)
+			- [Web管理后台识别](#Web安全之Web管理后台识别)
 			- [Other](#Web安全之其他)
 		- [APT检测](#APT检测)
 		- [安全运营](#安全运营)
@@ -141,7 +138,7 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
 - [基于AST的Webshell检测](http://foreversong.cn/archives/1386)
 
-### Web管理后台识别 ###
+### Web安全之Web管理后台识别 ###
 - [基于机器学习的Web管理后台识别方法探索](https://security.tencent.com/index.php/blog/msg/176)
 
 ### Web安全之其他 ###
