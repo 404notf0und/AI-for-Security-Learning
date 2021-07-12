@@ -3,10 +3,11 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2021/03/01
+最近更新日期为：2021/07/12
 
 新增：
 - [基于机器学习的Web管理后台识别方法探索](https://security.tencent.com/index.php/blog/msg/176)
+- [基于机器学习的GitHub敏感信息泄露监控](https://xz.aliyun.com/t/7805)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -14,6 +15,7 @@
 - [综述篇](#综述篇)
 - [防护篇](#防护篇)
 	- [使用AI保护应用](#使用AI保护应用)
+		- [敏感数据检测](#敏感数据检测)
 		- [恶意样本检测](#恶意样本检测)
 		- [入侵检测](#入侵检测)
 		- [域名安全检测](#域名安全检测)
@@ -53,6 +55,9 @@
 
 # 防护篇 #
 ## 使用AI保护应用 ##
+### 敏感数据检测 ###
+- [基于机器学习的GitHub敏感信息泄露监控](https://xz.aliyun.com/t/7805)
+
 ### 恶意样本检测 ###
 - [深度学习在恶意软件检测中的应用](https://xz.aliyun.com/t/2447)
 - [恶意软件与数据分析](https://iami.xyz/AliSEC3/)
