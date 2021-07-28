@@ -3,11 +3,12 @@
 
 项目地址：https://github.com/404notf0und/AI-for-Security-Learning
 
-最近更新日期为：2021/07/12
+最近更新日期为：2021/07/28
 
 新增：
 - [基于机器学习的Web管理后台识别方法探索](https://security.tencent.com/index.php/blog/msg/176)
 - [基于机器学习的GitHub敏感信息泄露监控](https://xz.aliyun.com/t/7805)
+- [机器学习检测Cobalt Strike木马初探](https://www.freebuf.com/articles/network/279190.html)
 
 同步更新于：[404 Not Found：AI for Security](http://4o4notfound.org/index.php/archives/177/)
 
@@ -15,6 +16,7 @@
 - [综述篇](#综述篇)
 - [防护篇](#防护篇)
 	- [使用AI保护应用](#使用AI保护应用)
+		- [黑客工具检测](#黑客工具检测)
 		- [敏感数据检测](#敏感数据检测)
 		- [恶意样本检测](#恶意样本检测)
 		- [入侵检测](#入侵检测)
@@ -27,7 +29,6 @@
 			- [Web攻击多分类检测](#Web安全之攻击多分类检测)
 			- [WAF建设](#Web安全之WAF建设)
 			- [Webshell检测](#Web安全之Webshell检测)
-			- [Web管理后台识别](#Web安全之Web管理后台识别)
 			- [Other](#Web安全之其他)
 		- [APT检测](#APT检测)
 		- [安全运营](#安全运营)
@@ -55,8 +56,12 @@
 
 # 防护篇 #
 ## 使用AI保护应用 ##
+### 黑客工具检测 ###
+- [机器学习检测Cobalt Strike木马初探](https://www.freebuf.com/articles/network/279190.html)
+
 ### 敏感数据检测 ###
 - [基于机器学习的GitHub敏感信息泄露监控](https://xz.aliyun.com/t/7805)
+- [基于机器学习的Web管理后台识别方法探索](https://security.tencent.com/index.php/blog/msg/176)
 
 ### 恶意样本检测 ###
 - [深度学习在恶意软件检测中的应用](https://xz.aliyun.com/t/2447)
@@ -142,9 +147,6 @@ Networks with Adaptive Control Protocol Templates](https://www.usenix.org/system
 - [基于机器学习的WebShell检测方法与实现(上)](https://www.freebuf.com/articles/web/181169.html)
 - [初探机器学习检测PHP Webshell](https://paper.seebug.org/526/)
 - [基于AST的Webshell检测](http://foreversong.cn/archives/1386)
-
-### Web安全之Web管理后台识别 ###
-- [基于机器学习的Web管理后台识别方法探索](https://security.tencent.com/index.php/blog/msg/176)
 
 ### Web安全之其他 ###
 - [Web安全检测中机器学习的经验之谈](https://iami.xyz/ML-IN-Webshell-Detection-Advantages-And-Disadvantages/)
